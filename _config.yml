@@ -24,7 +24,7 @@ orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: Researchergate
+- title: Follow researchgate link
   #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Tri-Le-9
@@ -40,7 +40,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/TRI.jpg)
+about_profile_image: images/TRI.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
